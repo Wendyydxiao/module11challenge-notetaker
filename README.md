@@ -6,7 +6,7 @@ This project aims to create an application - Note Taker that can be used to writ
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Routes](#APIroutes)
+- [API Routes](#apiroutes)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
