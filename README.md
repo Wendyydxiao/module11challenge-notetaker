@@ -27,6 +27,7 @@ Live env:
 1. Hitting the live link: TBP
 
 ## API Routes
+
 - GET /api/notes: Retrieves all saved notes from the JSON file.
 - POST /api/notes: Saves a new note to the JSON file. Each note is stored on a new line in the file.
 - DELETE /api/notes/:id: Deletes a note with the specified ID from the JSON file.
