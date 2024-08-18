@@ -24,7 +24,7 @@ Local env:
 2. Open browser and navigate to http://localhost:3001
 
 Live env: 
-1. Hitting the live link: TBP
+1. Hitting the live link: https://module11challenge-notetaker.onrender.com 
 
 ## API Routes
 

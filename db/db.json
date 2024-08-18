@@ -1,27 +1,17 @@
 [
     {
-        "id": "e1a165b2-2540-44a8-a28b-7a7034767082",
-        "title": "wendyyyy",
-        "text": "sampletext"
+        "id": "1523e61a-ebea-4d35-b27b-cafa37e5db87",
+        "title": "Test1",
+        "text": "Sampletext"
     },
     {
-        "id": "e1209341-b2b5-40ec-9939-e8098327aa40",
-        "title": "wendyyyxx",
-        "text": "sampletextx"
+        "id": "ba58326c-1e23-40d2-9370-44cef344620e",
+        "title": "Test2",
+        "text": "Sampletext 2"
     },
     {
-        "id": "e26e60f3-809b-4966-b776-861ee7156a9d",
-        "title": "wendyyyxu",
-        "text": "sampletextu"
-    },
-    {
-        "id": "9949d1d9-e0ea-4f4e-b58e-4879c44d830e",
-        "title": "test2",
-        "text": "testing for creation"
-    },
-    {
-        "id": "80ddadd3-e652-4efb-b0a8-45b2b3299ab8",
-        "title": "ddd",
-        "text": "ddd"
+        "id": "1d6e5e89-bd6c-4435-b54b-8d23afd98a6a",
+        "title": "Wendy's class",
+        "text": "Attend Bootcamp at 630pm AEST"
     }
 ]
