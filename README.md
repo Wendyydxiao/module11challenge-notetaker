@@ -1,7 +1,14 @@
 # Note Taker
 
 ## Description
-This project aims to create an application - Note Taker that can be used to write and save notes. The application coorperates front-end and back-end (Express.js) developments to allow user to create, save & delete notes and able to save all note data to JSON file.
+This project aims to create an application - Note Taker that can be used to write and save notes. The application connects front-end and back-end (Express.js) developments to allow user to create, save & delete notes and able to save all note data to JSON file.
+
+- Live page: https://module11challenge-notetaker.onrender.com
+- Screenshot (s):
+<img src="/public/assets/images/Notetaker-1.png" width="350" title="page screenshot1">
+<img src="/public/assets/images/Notetaker-2.png" width="350" title="page screenshot2">
+
+
 
 ## Table of Contents
 - [Installation](#installation)

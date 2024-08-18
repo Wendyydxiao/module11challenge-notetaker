@@ -12,7 +12,6 @@ app.use(express.static('public'));
 
 const dbFilePath = path.join(__dirname, 'db', 'db.json');
 
-// Routes
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
@@ -21,7 +20,7 @@ app.get('/notes', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'notes.html'));
 });
 
-// API to get notes
+// Get Note API
 app.get('/api/notes', (req, res) => {
   fs.readFile(dbFilePath, 'utf8', (err, data) => {
     if (err) {
@@ -32,7 +31,7 @@ app.get('/api/notes', (req, res) => {
   });
 });
 
-// API to save a note
+// Save Note API
 app.post('/api/notes', (req, res) => {
   const newNote = { id: uuidv4(), ...req.body };
 
@@ -54,7 +53,7 @@ app.post('/api/notes', (req, res) => {
   });
 });
 
-// API to delete a note
+// Note deletion API
 app.delete('/api/notes/:id', (req, res) => {
   const noteId = req.params.id;
 
